@@ -15,6 +15,6 @@
 > Sou Formada a 8 anos como Profissional de Educação Física e atuo na área desde o 2º período da gradução (2012);
  
 ## CONECTE-SE COMIGO! 😉
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=0E76A8)](https://github.com/RamilaMacedo/) [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/râmila-macêdo-31b18620a//) 
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=0E76A8)](https://github.com/RamilaMacedo/) [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/https://www.linkedin.com/in/râmila-macêdo-31b18620a/) 
 
 ## Desde ja agradeço sua presença!
