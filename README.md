@@ -10,7 +10,6 @@
 > Logo mais iniciarei minha Graduação em Engenharia da Computação na UNISUL - Santa Catarina;
 
 > Cursei até o 3º período do curso de Análise e Desenvolvimento de Sistemas;
-* tive que me mudar para Santa Catarina e trabalhava em outra área. No momento não consegui conciliar.
 
 > Sou Formada a 8 anos como Profissional de Educação Física e atuo na área desde o 2º período da gradução (2012);
  
