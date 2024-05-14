@@ -1,9 +1,14 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
 ### ✊ Meu nome é *Râmila Macêdo*
-> Sou estudante da área de Tecnologia;
+> Amante da Tecnologia e suas diversas ramificações;
 
-> Graduação em Engenharia da Computação na UNISUL - Santa Catarina;
+> Graduanda em Engenharia da Computação na UNISUL - Santa Catarina;
+ - Cursando:
+   * Análise de Fenômenos Físicos da Natureza;
+   * Medição em ciências e  Representação Gráfica;
+     
+> Faço parte do Curso de Extensão: Neurociência, Aprendizagem e Atenção Plena;
 
 > Participei de um estágio em parceira com a faculdade na área de Engenharia de dados por 3 meses;
 
