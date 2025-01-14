@@ -4,11 +4,18 @@
 > Amante da Tecnologia e suas diversas ramificações;
 
 > Graduanda em Engenharia da Computação na UNISUL - Santa Catarina;
- - Cursando:
+ - Disciplinas Concluidas:
    * Análise de Fenômenos Físicos da Natureza;
    * Medição em ciências e  Representação Gráfica;
+   * Fenômenos Elétricos, Magnéticos e Oscilatório;
+   * Montagem e Simulação de Sistemas Elétricos e Magnéticos;
      
-> Faço parte do Curso de Extensão: Neurociência, Aprendizagem e Atenção Plena;
+ - Cursando:
+   [Espera da nova grade]
+ - Cursos Complementares (Cursando):
+   * Python - Santander/Open Academy
+          
+> Conclusão no Curso de Extensão: Neurociência, Aprendizagem e Atenção Plena;
 
 > Participei de um estágio em parceira com a faculdade na área de Engenharia de dados por 3 meses;
 
@@ -19,7 +26,6 @@
 
 ## HARD SKILL 📌
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
